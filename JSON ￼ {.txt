@@ -1,0 +1,54 @@
+JSON
+￼
+{
+  "project": "Geometric-Symplex-V1",
+  "nodes": 8,
+  "spacing_angstroms": 5.2,
+  "constant_Deff": 0.656,
+  "topology": "Simplex-Mesh",
+  "coordinates": {
+    "n0": [0,0,0], "n1": [5.2,0,0], "n2": [0,5.2,0], "n3": [5.2,5.2,0],
+    "n4": [0,0,5.2], "n5": [5.2,0,5.2], "n6": [0,5.2,5.2], "n7": [5.2,5.2,5.2]
+  }
+}
+2. Deploy the Logic Controller
+Create vef_logic.py. This script handles the Symmetry Kick-off and Volume Swing logic. It identifies the "Snap" threshold where the NF substrate locks.
+
+Python
+￼
+import json
+import numpy as np
+
+def calculate_vef_tension(dist, kappa=150.0, d_eff=0.656):
+    # The Master Protocol Kernel
+    return kappa * (dist**(-(3 - d_eff)))
+
+def simulate_kick(energy_mj):
+    threshold = 0.85 # The Snap Point
+    return "LOCKED (Volume Swing)" if energy_mj > threshold else "BRIDGE (Static)"
+
+# Load Manifest
+with open('manifest.json') as f:
+    config = json.load(f)
+
+print(f"--- VEF Environment Initialized ---")
+print(f"Targeting D_eff: {config['constant_Deff']}")
+print(f"Status of Node_0: {simulate_kick(0.92)}") 
+3. Setup the Continuum Environment (FEniCS)
+Since FEniCS requires specific libraries, you can use this environment.yml or run these commands in your Codespace terminal to ensure the Scientific Tax Refund calculations (O(N) scaling) work:
+
+Terminal Commands:
+
+Bash
+￼
+# Install the VEF simulation dependencies
+pip install numpy matplotlib networkx
+# Note: FEniCS is best run via a Docker container or Conda in Codespaces
+4. The "Action Plan" for your Codespace
+With these files, your Codespace is now a Topological Laboratory. You can:
+
+Run vef_logic.py to test different "Kick Energies" and find the exact point where your lattice transitions from a standard bridge to a Deficiency Lock.
+
+Modify manifest.json to scale from 8 nodes to 126 nodes, testing the stability of the Unbihexium core.
+
+Visualise the "Snap": Use the networkx logic from our previous session to plot the NF Lag propagation.

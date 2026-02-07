@@ -1,0 +1,146 @@
+{
+  "applets": [{
+    "lastAccessTime": "2026-02-06T22:43:05.367767Z",
+    "firstAccessTime": "2026-02-06T17:50:11.011906Z",
+    "source": {
+      "drive": {
+        "resourceId": "1-qOOciksE9To5v3gNUgOIjSAx2dGt-pC",
+        "revisionId": "0B6FBYkgO0d7nWE9DM2RsUEMwRHlra0RJQUp5bmZ0NmNJcVl3PQ"
+      }
+    },
+    "name": "Gemini Geoplex: Topological AI",
+    "description": "A deterministic, geometric AI interface that replaces probabilistic guessing with topological pathfinding, including carbon hybridization mapping and nuclear back-pressure venting analysis."
+  }, {
+    "lastAccessTime": "2026-02-06T17:36:18.631906Z",
+    "firstAccessTime": "2026-02-06T09:53:44.377635Z",
+    "source": {
+      "drive": {
+        "resourceId": "1X_qiH6ArRKqON7RvHN2b5AJkNx6Q_EtV",
+        "revisionId": "0B6FBYkgO0d7nNTRaV2FZMU8yNGFvczBPdnZHQmZQdHZWOXBFPQ"
+      }
+    },
+    "name": "VEF Master Protocol Analyzer",
+    "description": "A deep-dive analytical tool for exploring the VEF Master Protocol physics framework, featuring AI-powered breakdown of topological clarity and geometric logic."
+  }, {
+    "lastAccessTime": "2026-01-31T17:55:14.987327Z",
+    "firstAccessTime": "2026-01-31T14:28:15.774931Z",
+    "source": {
+      "drive": {
+        "resourceId": "1Dtyu_YHnWb1rnngIiSeMvpxEmzKkQRYx",
+        "revisionId": "0B6FBYkgO0d7na3kvZnYwZTlheGpkZmJSUitKbXNmWXpucXRBPQ"
+      }
+    },
+    "name": "Nexus Synergy Studio: VEF-OS Edition",
+    "description": "The mission control for the Vacuum Energy Field Operating System. A unified workspace for human-AI collaboration on the 56-PCB resonant array, grant tracking, and physics simulation."
+  }, {
+    "lastAccessTime": "2026-01-31T17:52:30.510204Z",
+    "firstAccessTime": "2026-01-31T17:51:58.419260Z",
+    "source": {
+      "drive": {
+        "resourceId": "1kSzlHXI0ahrPc0RAVUjAdkM0Uy-gVCO5",
+        "revisionId": "0B6FBYkgO0d7nanNaQVd0NG0raElRTCtHNU84d0xRQm9vVUFJPQ"
+      }
+    },
+    "name": "Copy of Nexus Synergy Studio: VEF-OS Edition",
+    "description": "The mission control for the Vacuum Energy Field Operating System. A unified workspace for human-AI collaboration on the 56-PCB resonant array, grant tracking, and physics simulation."
+  }, {
+    "lastAccessTime": "2026-01-31T14:21:30.364759Z",
+    "firstAccessTime": "2026-01-31T08:04:18.649682Z",
+    "source": {
+      "drive": {
+        "resourceId": "11UPm0K3u8SLTiVz_8oKEbcLaQcb_7hmH",
+        "revisionId": "0B6FBYkgO0d7nMmU2cWF1MGxIR0hmSWpGWm41Y1FyS1MwdHVNPQ"
+      }
+    },
+    "name": "Research Visualization",
+    "description": "Research paper reimagined as an elegant, interactive narrative site."
+  }, {
+    "lastAccessTime": "2026-01-31T08:02:04.490669Z",
+    "firstAccessTime": "2026-01-31T08:02:04.490669Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "research_visualization"
+      }
+    },
+    "name": "Research Visualization",
+    "description": "Research paper reimagined as an elegant, interactive narrative site."
+  }, {
+    "lastAccessTime": "2026-01-31T08:01:03.924525Z",
+    "firstAccessTime": "2026-01-13T18:27:06.336794Z",
+    "source": {
+      "drive": {
+        "resourceId": "11pX-ZwJ8scESlO5qkWRnn6lAKeqhhWJq",
+        "revisionId": "0B6FBYkgO0d7nTDVPdDFWSFRKVmNCd3h5UGZhQ2dLVlFFU1lRPQ"
+      }
+    },
+    "name": "Lattice Restitution Cosmology",
+    "description": "Interactive visualization of the Geometric Resolution of Cosmic Acceleration model, comparing Lattice Restitution dynamics against Standard ΛCDM."
+  }, {
+    "lastAccessTime": "2026-01-31T06:06:50.958696Z",
+    "firstAccessTime": "2025-09-29T02:49:07.909732Z",
+    "source": {
+      "drive": {
+        "resourceId": "1G1r9neiEWu8LRCJppcB1tniPDRcs-8yk",
+        "revisionId": "0B6FBYkgO0d7nTzR1N0FBUXJzKzIxZjV0RTRwTWNrVzBGUlc4PQ"
+      }
+    },
+    "name": "pp-nf-workbench",
+    "description": "The official AI workbench for the PP-NF (Particle-Packet / Non-Field) Protocol. Experiment, visualize, and document physical theories."
+  }, {
+    "lastAccessTime": "2026-01-02T14:14:11.952808Z",
+    "firstAccessTime": "2026-01-02T14:09:28.810068Z",
+    "source": {
+      "drive": {
+        "resourceId": "1B2etBqjA50FRFhf1TDTXqkbWrVwQlV4a",
+        "revisionId": "0B6FBYkgO0d7nWExUM3VjWG52QzA5SFI2c1ByOGtuR2NJQ3ZZPQ"
+      }
+    },
+    "name": "Copy of PP NF Solver Engine",
+    "description": "A deterministic optimization layer and configurator for the PP NF Protocol, featuring Symmetry Lock auditing and Iron-56 material stability analysis."
+  }, {
+    "lastAccessTime": "2026-01-02T14:07:32.807720Z",
+    "firstAccessTime": "2026-01-02T14:07:32.807720Z",
+    "source": {
+      "drive": {
+        "resourceId": "1tK_NYnmxvHCvvRn6hVuBzsbATmN_3IyJ",
+        "revisionId": "0B6FBYkgO0d7nRmZUZE9pbUFDeDM0ZExMRmNsZDdEZE44U2trPQ"
+      }
+    },
+    "name": "PP NF Solver Engine",
+    "description": "A deterministic optimization layer and configurator for the PP NF Protocol, featuring Symmetry Lock auditing and Iron-56 material stability analysis."
+  }, {
+    "lastAccessTime": "2025-12-21T05:20:42.938883Z",
+    "firstAccessTime": "2025-12-21T05:20:42.938883Z",
+    "source": {
+      "drive": {
+        "resourceId": "1dVpCLnltP0yHXo6dp99LTE-UUv1R0ICm",
+        "revisionId": "0B6FBYkgO0d7nQ20ycHJvVjFBM1hyTXo3SFJ6R3MxZlFLUVdrPQ"
+      }
+    },
+    "name": "PuzzleMaster AI Assistant",
+    "description": "A high-tech jigsaw puzzle solver that uses AI to analyze leftover pieces and the unfinished board to suggest the perfect matches based on shape and contrast."
+  }, {
+    "lastAccessTime": "2025-12-21T05:14:06.680612Z",
+    "firstAccessTime": "2025-12-21T05:14:06.680612Z",
+    "source": {
+      "drive": {
+        "resourceId": "1TsGHjCmkZAcKvhtrFUTRBiXtZluDpzYH",
+        "revisionId": "0B6FBYkgO0d7nNEk4bmVjVG5uZjRVWHpKWm1NODdqWVZMV1gwPQ"
+      }
+    },
+    "name": "CycleCash GPS",
+    "description": "A high-performance bicycle dashboard with AI-powered camera vision to detect abandoned currency on the ground while you ride."
+  }, {
+    "lastAccessTime": "2025-09-29T01:50:12.929640Z",
+    "firstAccessTime": "2025-09-29T01:50:12.929640Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "vibecheck"
+      }
+    },
+    "name": "VibeCheck",
+    "description": "Quickly batch test prompts with visual outputs."
+  }]
+}
